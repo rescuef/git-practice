@@ -5,3 +5,4 @@ conflictブランチで変更(コンフリクト発生)
 new-featureブランチで変更
 no-fast-forwardブランチで変更
 conflictブランチで変更
+github上で更新
